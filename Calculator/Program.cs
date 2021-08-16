@@ -22,7 +22,9 @@ namespace Calculator
                 Console.WriteLine("Type a number and press enter please.");
                 try
                 {
+                   
                     num1 = Convert.ToInt32(Console.ReadLine());
+                    
                 }
                 catch
                 {
